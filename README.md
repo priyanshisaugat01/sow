@@ -48,9 +48,9 @@ docker build -t shopping-on-wheels .
 
 docker run -p 8080:80 shopping-on-wheels
 
-Open in browser:
 
-http://localhost:8080
+
+
 
 ---
 
